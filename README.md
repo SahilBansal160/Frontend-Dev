@@ -21,7 +21,7 @@ I learned how to create **interactive, mobile-friendly web pages** that work smo
 - Understanding **localhost, ports, and IP rendering**  
 - Setting up **VS Code** and using **Live Server**
 
-**💡 PRACTICE TASK:**  
+** PRACTICE TASK:**  
 
 Create a **timetable** using the `<table>` tag and preview it in the browser with Live Server.
 
